@@ -1,4 +1,4 @@
-# Mongoose-v-setters
+# Mongoose-v-etters
 
 [![Build Status](https://travis-ci.org/nowk/mongoose-v-etters.js.svg?branch=master)](https://travis-ci.org/nowk/mongoose-v-etters.js)
 [![Code Climate](https://codeclimate.com/github/nowk/mongoose-v-etters.js.png)](https://codeclimate.com/github/nowk/mongoose-v-etters.js)
