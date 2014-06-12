@@ -1,6 +1,6 @@
 {
   "name": "mongoose-v-etters",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Virtual setters and getters for references (eg. post_id for post)",
   "main": "index.js",
   "scripts": {
